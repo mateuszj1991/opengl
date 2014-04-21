@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="szablon">
+</Property><Property Name="Solution File" Value="F:\Studia\II\openGL\projekt\szablon.sln">
+</Property><Property Name="Date" Value="11 kwietnia 2014">
+</Property><Property Name="Time" Value="08:09:11">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="szablon" Source="szablon.vcproj" Description="Converting project file 'F:\Studia\II\openGL\projekt\szablon.vcproj'.">
+</Event><Event ErrorLevel="1" Project="szablon" Source="szablon.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="szablon" Source="szablon.vcproj" Description="MSB8012: $(TargetPath) ('F:\Studia\II\openGL\projekt\.\Debug\szablon.exe') does not match the Linker's OutputFile property value '.\Debug/szablon.exe' ('F:\Studia\II\openGL\projekt\Debug/szablon.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="szablon" Source="szablon.vcproj" Description="MSB8012: $(TargetPath) ('F:\Studia\II\openGL\projekt\.\Release\szablon.exe') does not match the Linker's OutputFile property value '.\Release/szablon.exe' ('F:\Studia\II\openGL\projekt\Release/szablon.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="szablon" Source="szablon.vcproj" Description="Done converting to new project file 'F:\Studia\II\openGL\projekt\szablon.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="szablon" Source="szablon.vcproj" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1396017564 source:f:\studia\ii\opengl\szablon - silnik 1\szablon.cpp
+	<windows.h>
+	"glut.h"
+	"model3DS.h"
+	<time.h>
+	<direct.h>
+	"definicje.cpp"
+	"interakcja.cpp"
+	"rysowanie.cpp"
+	"konfiguracja.cpp"
+
+991673320 f:\studia\ii\opengl\szablon - silnik 1\glut.h
+	<windows.h>
+	<stddef.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1291233788 f:\studia\ii\opengl\szablon - silnik 1\model3ds.h
+	<windows.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<list>
+	<map>
+	<string>
+	<sstream>
+	<cctype>
+	<algorithm>
+	<assert.h>
+	"GL/gl.h"
+	"textureTGA.h"
+	"textureBMP.h"
+	"Vector.h"
+
+1287071080 f:\studia\ii\opengl\szablon - silnik 1\texturetga.h
+	<windows.h>
+	<iostream>
+	<fstream>
+	"GL/gl.h"
+	"GL/glu.h"
+
+1287064838 f:\studia\ii\opengl\szablon - silnik 1\texturebmp.h
+	<windows.h>
+	<iostream>
+	<fstream>
+	"GL/gl.h"
+	"GL/glu.h"
+
+1135802748 f:\studia\ii\opengl\szablon - silnik 1\vector.h
+	<math.h>
+	<iostream>
+
+1382872760 f:\studia\ii\opengl\szablon - silnik 1\definicje.cpp
+
+1334906788 f:\studia\ii\opengl\szablon - silnik 1\interakcja.cpp
+
+1396018290 f:\studia\ii\opengl\szablon - silnik 1\rysowanie.cpp
+
+1382887254 f:\studia\ii\opengl\szablon - silnik 1\konfiguracja.cpp
+
